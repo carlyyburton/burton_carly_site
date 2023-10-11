@@ -1,3 +1,6 @@
+# Coding Assignment 11 - Carly Burton
+## To run this app on localhost:7775 run `PORT=7775 yarn start` in the project directory.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

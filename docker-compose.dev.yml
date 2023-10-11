@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: burton_carly_coding_assignment11
+    image: burton_carly_coding_assignment11
+    build:
+      target: development
+    volumes:
+      - ./src:/burton_carly_site/src
+    ports:
+      - 3000:3000
